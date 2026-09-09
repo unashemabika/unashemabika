@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Unashe
 
-<!--
-**unashemabika/unashemabika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance professional building specialist expertise in Credit Risk Modelling & Analytics.
 
-Here are some ideas to get you started:
+## Current Focus
+- Credit Risk Modelling
+- Probability of Default (PD)
+- Loss Given Default (LGD)
+- Exposure at Default (EAD)
+- IFRS 9 Expected Credit Loss
+- Python
+- SQL
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Roadmap
+I am currently building a portfolio of practical credit-risk projects covering:
+
+- End-to-End Credit Risk Modelling
+- Credit Portfolio Analytics
+- IFRS 9 ECL
+- Model Validation
+- Stress Testing
+
+## Projects
+Projects will be added here as they are completed.
